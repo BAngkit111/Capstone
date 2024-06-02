@@ -1,0 +1,188 @@
+User ID,Umur,Jenis Kelamin,Lokasi Jemputan,Lokasi Tujuan,Jenis Transportasi Umum,Jumlah Harga
+U-0001,23,Laki-laki,"Jl. Sudirman, Karet Semanggi, Setiabudi","Jl. MH Thamrin, Tanah Abang, Jakarta Pusat",Bus,Rp. 12.000
+U-0002,45,Perempuan,"Jl. Sisingamangaraja, Kebayoran Baru, Jakarta Selatan","Jl. Gatot Subroto, Setiabudi, Jakarta Selatan",Transjakarta,Rp. 18.000
+U-0003,32,Laki-laki,"Jl. Kramat Raya, Senen, Jakarta Pusat","Jl. Mangga Besar, Sawah Besar, Jakarta Pusat",KRL,Rp. 8.000
+U-0004,58,Perempuan,"Jl. Pangeran Diponegoro, Menteng, Jakarta Pusat","Jl. Medan Merdeka Barat, Gambir, Jakarta Pusat",MRT,Rp. 14.000
+U-0005,28,Laki-laki,"Jl. Raya Kalimalang, Duren Sawit, Jakarta Timur","Jl. Cempaka Putih, Cempaka Putih, Jakarta Pusat",Angkot,Rp. 5.000
+U-0006,25,L,Jl. Sudirman,Stasiun Gambir,Transjakarta,Rp. 5.000
+U-0007,42,P,Mall Taman Anggrek,Bandara Soekarno-Hatta,Kereta Api,Rp. 75.000
+U-0008,38,L,Stasiun Manggarai,Monas,Busway,Rp. 3.500
+U-0009,30,Laki-laki,"Jl. Jendral Sudirman, Jakarta Pusat","Blok M, Jakarta Selatan",MRT,Rp. 15.000
+U-0010,29,Perempuan,"Stasiun Manggarai, Jakarta Selatan","Stasiun Tanah Abang, Jakarta Pusat",KRL,Rp. 7.000
+U-0011,34,Laki-laki,"Halte Harmoni, Jakarta Pusat","Taman Mini Indonesia Indah, Jakarta Timur",Transjakarta,Rp. 10.000
+U-0012,40,Perempuan,"Terminal Kampung Rambutan, Jakarta Timur","Pasar Minggu, Jakarta Selatan",Bus,Rp. 6.000
+U-0013,27,Laki-laki,"Stasiun Palmerah, Jakarta Barat","Stasiun Cikini, Jakarta Pusat",KRL,Rp. 5.000
+U-0014,22,Perempuan,"Jl. MH Thamrin, Jakarta Pusat","Kota Tua, Jakarta Barat",Busway,Rp. 4.000
+U-0015,36,Laki-laki,"Stasiun Pasar Senen, Jakarta Pusat","Stasiun Jatinegara, Jakarta Timur",Kereta Api,Rp. 10.000
+U-0016,33,Perempuan,"Mall Kelapa Gading, Jakarta Utara","Stasiun Kota, Jakarta Barat",Busway,Rp. 5.000
+U-0017,26,Laki-laki,"Terminal Pulogadung, Jakarta Timur","Stasiun Gambir, Jakarta Pusat",Transjakarta,Rp. 12.000
+U-0018,50,Perempuan,"Jl. Letjen Suprapto, Cempaka Putih, Jakarta Pusat","Mall Grand Indonesia, Jakarta Pusat",Busway,Rp. 3.500
+U-0019,31,Laki-laki,"Stasiun Tebet, Jakarta Selatan","Stasiun Manggarai, Jakarta Selatan",KRL,Rp. 3.000
+U-0020,29,Perempuan,"Halte Dukuh Atas, Jakarta Pusat","Senayan City, Jakarta Selatan",Transjakarta,Rp. 5.000
+U-0021,37,Laki-laki,"Stasiun Klender, Jakarta Timur","Stasiun Jatinegara, Jakarta Timur",KRL,Rp. 4.000
+U-0022,45,Perempuan,"Stasiun Sudirman, Jakarta Pusat","Stasiun Bogor, Jawa Barat",KRL,Rp. 15.000
+U-0023,23,Laki-laki,"Terminal Kalideres, Jakarta Barat","Monas, Jakarta Pusat",Bus,Rp. 10.000
+U-0024,48,Perempuan,"Pasar Tanah Abang, Jakarta Pusat","Blok M, Jakarta Selatan",Busway,Rp. 6.000
+U-0025,35,Laki-laki,"Stasiun Tanah Abang, Jakarta Pusat","Stasiun Bekasi, Jawa Barat",KRL,Rp. 10.000
+U-0026,27,Perempuan,"Jl. Gatot Subroto, Jakarta Selatan","Pasar Minggu, Jakarta Selatan",Angkot,Rp. 4.000
+U-0027,53,Laki-laki,"Terminal Lebak Bulus, Jakarta Selatan","Terminal Senen, Jakarta Pusat",Bus,Rp. 15.000
+U-0028,39,Perempuan,"Halte Semanggi, Jakarta Pusat","Ancol, Jakarta Utara",Transjakarta,Rp. 8.000
+U-0029,41,Laki-laki,"Stasiun Pasar Minggu, Jakarta Selatan","Stasiun Bogor, Jawa Barat",KRL,Rp. 12.000
+U-0030,46,Perempuan,"Terminal Blok M, Jakarta Selatan","Plaza Senayan, Jakarta Selatan",Busway,Rp. 3.500
+U-0031,38,Laki-laki,"Halte Kuningan, Jakarta Selatan","Stasiun Sudirman, Jakarta Pusat",Transjakarta,Rp. 7.000
+U-0032,24,Perempuan,"Stasiun Gondangdia, Jakarta Pusat","Stasiun Juanda, Jakarta Pusat",KRL,Rp. 3.000
+U-0033,33,Laki-laki,"Jl. Pramuka, Jakarta Timur","Jl. Gatot Subroto, Jakarta Selatan",Angkot,Rp. 6.000
+U-0034,47,Perempuan,"Terminal Grogol, Jakarta Barat","Mall Central Park, Jakarta Barat",Busway,Rp. 4.000
+U-0035,29,Laki-laki,"Jl. Rasuna Said, Jakarta Selatan","Stasiun Manggarai, Jakarta Selatan",MRT,Rp. 10.000
+U-0036,52,Perempuan,"Stasiun Kota, Jakarta Barat","Stasiun Cikini, Jakarta Pusat",KRL,Rp. 5.000
+U-0037,26,Laki-laki,"Halte Semanggi, Jakarta Pusat","Blok M, Jakarta Selatan",Transjakarta,Rp. 5.000
+U-0038,31,Perempuan,"Jl. Tebet Barat Dalam, Jakarta Selatan","Jl. Prof. Dr. Satrio, Jakarta Selatan",Angkot,Rp. 4.000
+U-0039,42,Laki-laki,"Terminal Kampung Melayu, Jakarta Timur","Terminal Lebak Bulus, Jakarta Selatan",Bus,Rp. 8.000
+U-0040,39,Perempuan,"Halte Dukuh Atas, Jakarta Pusat","Mall Kelapa Gading, Jakarta Utara",Transjakarta,Rp. 9.000
+U-0041,27,Laki-laki,"Jl. Jendral Sudirman, Jakarta Pusat","Jl. Jenderal Gatot Subroto, Jakarta Selatan",MRT,Rp. 8.000
+U-0042,45,Perempuan,"Stasiun Palmerah, Jakarta Barat","Stasiun Sudirman, Jakarta Pusat",KRL,Rp. 4.000
+U-0043,34,Laki-laki,"Jl. Fatmawati, Jakarta Selatan","Jl. Panglima Polim, Jakarta Selatan",Angkot,Rp. 5.000
+U-0044,50,Perempuan,"Terminal Rawamangun, Jakarta Timur","Terminal Pulo Gadung, Jakarta Timur",Bus,Rp. 3.500
+U-0045,28,Laki-laki,"Stasiun Pasar Minggu, Jakarta Selatan","Stasiun Tebet, Jakarta Selatan",KRL,Rp. 3.000
+U-0046,36,Perempuan,"Jl. Pluit Selatan Raya, Jakarta Utara","Stasiun Kota, Jakarta Barat",Busway,Rp. 5.000
+U-0047,31,Laki-laki,"Halte Senayan, Jakarta Pusat","Jl. Senopati, Jakarta Selatan",Transjakarta,Rp. 4.000
+U-0048,40,Perempuan,"Jl. Sultan Agung, Jakarta Selatan","Stasiun Manggarai, Jakarta Selatan",Angkot,Rp. 3.000
+U-0049,38,Laki-laki,"Halte Dukuh Atas, Jakarta Pusat","Pasar Tanah Abang, Jakarta Pusat",Busway,Rp. 3.500
+U-0050,44,Perempuan,"Stasiun Tebet, Jakarta Selatan","Stasiun Manggarai, Jakarta Selatan",KRL,Rp. 3.000
+U-0051,33,Laki-laki,"Terminal Kalideres, Jakarta Barat","Stasiun Kota, Jakarta Barat",Bus,Rp. 5.000
+U-0052,29,Perempuan,"Jl. Kuningan, Jakarta Selatan","Mall Ambassador, Jakarta Selatan",Angkot,Rp. 4.000
+U-0053,51,Laki-laki,"Terminal Pulo Gadung, Jakarta Timur","Terminal Kampung Rambutan, Jakarta Timur",Bus,Rp. 6.000
+U-0054,28,Perempuan,"Stasiun Pasar Senen, Jakarta Pusat","Stasiun Jatinegara, Jakarta Timur",KRL,Rp. 4.000
+U-0055,37,Laki-laki,"Halte Monas, Jakarta Pusat","Ancol, Jakarta Utara",Transjakarta,Rp. 8.000
+U-0056,48,Perempuan,"Stasiun Gambir, Jakarta Pusat","Stasiun Bekasi, Jawa Barat",KRL,Rp. 10.000
+U-0057,34,Laki-laki,"Terminal Blok M, Jakarta Selatan","Terminal Lebak Bulus, Jakarta Selatan",Busway,Rp. 4.000
+U-0058,32,Perempuan,"Halte Harmoni, Jakarta Pusat","Taman Mini Indonesia Indah, Jakarta Timur",Transjakarta,Rp. 9.000
+U-0059,41,Laki-laki,"Stasiun Juanda, Jakarta Pusat","Stasiun Bogor, Jawa Barat",KRL,Rp. 12.000
+U-0060,46,Perempuan,"Jl. Letjen S. Parman, Jakarta Barat","Stasiun Cawang, Jakarta Timur",Busway,Rp. 6.000
+U-0061,25,Laki-laki,"Halte Kuningan, Jakarta Selatan","Plaza Senayan, Jakarta Selatan",Transjakarta,Rp. 5.000
+U-0062,39,Perempuan,"Stasiun Tanah Abang, Jakarta Pusat","Stasiun Sudirman, Jakarta Pusat",KRL,Rp. 3.000
+U-0063,44,Laki-laki,"Terminal Grogol, Jakarta Barat","Mall Taman Anggrek, Jakarta Barat",Bus,Rp. 4.000
+U-0064,30,Perempuan,"Jl. Gatot Subroto, Jakarta Selatan","Jl. HR Rasuna Said, Jakarta Selatan",Angkot,Rp. 6.000
+U-0065,29,Laki-laki,"Terminal Kampung Melayu, Jakarta Timur","Stasiun Cawang, Jakarta Timur",Busway,Rp. 4.000
+U-0066,38,Perempuan,"Halte Semanggi, Jakarta Pusat","Plaza Indonesia, Jakarta Pusat",Transjakarta,Rp. 5.000
+U-0067,35,Laki-laki,"Jl. Jendral Sudirman, Jakarta Pusat","Stasiun Palmerah, Jakarta Barat",MRT,Rp. 7.000
+U-0068,49,Perempuan,"Stasiun Manggarai, Jakarta Selatan","Stasiun Bogor, Jawa Barat",KRL,Rp. 15.000
+U-0069,26,Laki-laki,"Terminal Lebak Bulus, Jakarta Selatan","Stasiun Sudirman, Jakarta Pusat",Bus,Rp. 8.000
+U-0070,42,Perempuan,"Halte Senayan, Jakarta Pusat","Plaza Senayan, Jakarta Selatan",Transjakarta,Rp. 3.000
+U-0071,27,Laki-laki,"Stasiun Pasar Senen, Jakarta Pusat","Stasiun Jatinegara, Jakarta Timur",KRL,Rp. 4.000
+U-0072,52,Perempuan,"Jl. Kramat Raya, Jakarta Pusat","Jl. Thamrin, Jakarta Pusat",Angkot,Rp. 5.000
+U-0073,31,Laki-laki,"Terminal Kampung Rambutan, Jakarta Timur","Jl. Pangeran Diponegoro, Jakarta Pusat",Busway,Rp. 6.000
+U-0074,36,Perempuan,"Stasiun Manggarai, Jakarta Selatan","Terminal Kampung Melayu, Jakarta Timur",KRL,Rp. 3.000
+U-0075,45,Laki-laki,"Halte Dukuh Atas, Jakarta Pusat","Jl. M.H. Thamrin, Jakarta Pusat",Transjakarta,Rp. 4.000
+U-0076,28,Perempuan,"Jl. Sisingamangaraja, Jakarta Selatan","Jl. Gatot Subroto, Jakarta Selatan",Angkot,Rp. 5.000
+U-0077,37,Laki-laki,"Terminal Kampung Melayu, Jakarta Timur","Jl. Kuningan, Jakarta Selatan",Bus,Rp. 3.500
+U-0078,43,Perempuan,"Stasiun Tanah Abang, Jakarta Pusat","Stasiun Bekasi, Jawa Barat",KRL,Rp. 10.000
+U-0079,33,Laki-laki,"Halte Harmoni, Jakarta Pusat","Monas, Jakarta Pusat",Transjakarta,Rp. 4.000
+U-0080,29,Perempuan,"Jl. Jenderal Sudirman, Jakarta Pusat","Terminal Kalideres, Jakarta Barat",MRT,Rp. 9.000
+U-0081,32,Laki-laki,"Halte Senayan, Jakarta Pusat","Taman Mini Indonesia Indah, Jakarta Timur",Transjakarta,Rp. 7.000
+U-0082,28,Perempuan,"Jl. Prof. Dr. Satrio, Jakarta Selatan","Stasiun Sudirman, Jakarta Pusat",Angkot,Rp. 5.000
+U-0083,41,Laki-laki,"Stasiun Manggarai, Jakarta Selatan","Stasiun Bogor, Jawa Barat",KRL,Rp. 15.000
+U-0084,26,Perempuan,"Halte Harmoni, Jakarta Pusat","Jl. Thamrin, Jakarta Pusat",Transjakarta,Rp. 3.500
+U-0085,43,Laki-laki,"Stasiun Sudirman, Jakarta Pusat","Plaza Senayan, Jakarta Selatan",MRT,Rp. 8.000
+U-0086,39,Perempuan,"Jl. Fatmawati, Jakarta Selatan","Jl. Panglima Polim, Jakarta Selatan",Angkot,Rp. 4.000
+U-0087,30,Laki-laki,"Terminal Kampung Rambutan, Jakarta Timur","Terminal Pulo Gadung, Jakarta Timur",Bus,Rp. 6.000
+U-0088,35,Perempuan,"Halte Dukuh Atas, Jakarta Pusat","Stasiun Tanah Abang, Jakarta Pusat",Transjakarta,Rp. 3.000
+U-0089,47,Laki-laki,"Jl. Jendral Sudirman, Jakarta Pusat","Jl. Gatot Subroto, Jakarta Selatan",Angkot,Rp. 4.000
+U-0090,31,Perempuan,"Terminal Grogol, Jakarta Barat","Mall Taman Anggrek, Jakarta Barat",Busway,Rp. 5.000
+U-0091,33,Laki-laki,"Stasiun Manggarai, Jakarta Selatan","Terminal Kampung Melayu, Jakarta Timur",KRL,Rp. 3.000
+U-0092,48,Perempuan,"Halte Senayan, Jakarta Pusat","Plaza Senayan, Jakarta Selatan",Transjakarta,Rp. 4.000
+U-0093,29,Laki-laki,"Jl. Gatot Subroto, Jakarta Selatan","Stasiun Sudirman, Jakarta Pusat",Angkot,Rp. 5.000
+U-0094,34,Perempuan,"Halte Senayan, Jakarta Pusat","Jl. Senopati, Jakarta Selatan",Transjakarta,Rp. 6.000
+U-0095,36,Laki-laki,"Stasiun Manggarai, Jakarta Selatan","Stasiun Bogor, Jawa Barat",KRL,Rp. 10.000
+U-0096,42,Perempuan,"Terminal Kalideres, Jakarta Barat","Stasiun Cawang, Jakarta Timur",Busway,Rp. 6.000
+U-0097,27,Laki-laki,"Jl. Sudirman, Jakarta Pusat","Jl. MH Thamrin, Jakarta Pusat",MRT,Rp. 7.000
+U-0098,38,Perempuan,"Stasiun Palmerah, Jakarta Barat","Stasiun Sudirman, Jakarta Pusat",KRL,Rp. 4.000
+U-0099,45,Laki-laki,"Halte Dukuh Atas, Jakarta Pusat","Jl. M.H. Thamrin, Jakarta Pusat",Transjakarta,Rp. 5.000
+U-0100,28,Perempuan,"Jl. Sisingamangaraja, Jakarta Selatan","Jl. Gatot Subroto, Jakarta Selatan",Angkot,Rp. 6.000
+U-0101,29,Laki-laki,"Terminal Lebak Bulus, Jakarta Selatan","Terminal Pulogadung, Jakarta Timur",Bus,Rp. 8.000
+U-0102,31,Perempuan,"Halte Blok M, Jakarta Selatan","Pasar Santa, Jakarta Selatan",Transjakarta,Rp. 4.000
+U-0103,40,Laki-laki,"Jl. Gatot Subroto, Jakarta Selatan","Jl. Sudirman, Jakarta Pusat",Angkot,Rp. 5.000
+U-0104,36,Perempuan,"Terminal Pulo Gadung, Jakarta Timur","Mall Kelapa Gading, Jakarta Utara",Bus,Rp. 6.000
+U-0105,45,Laki-laki,"Stasiun Gambir, Jakarta Pusat","Stasiun Bogor, Jawa Barat",KRL,Rp. 15.000
+U-0106,27,Perempuan,"Halte Sudirman, Jakarta Pusat","Grand Indonesia, Jakarta Pusat",Transjakarta,Rp. 3.500
+U-0107,39,Laki-laki,"Stasiun Tanah Abang, Jakarta Pusat","Stasiun Manggarai, Jakarta Selatan",KRL,Rp. 10.000
+U-0108,33,Perempuan,"Terminal Kalideres, Jakarta Barat","Stasiun Grogol, Jakarta Barat",Bus,Rp. 4.000
+U-0109,28,Laki-laki,"Jl. Sudirman, Jakarta Pusat","Stasiun Palmerah, Jakarta Barat",MRT,Rp. 6.000
+U-0110,41,Perempuan,"Halte Senayan, Jakarta Pusat","Halte Harmoni, Jakarta Pusat",Transjakarta,Rp. 3.000
+U-0111,30,Laki-laki,"Terminal Kampung Melayu, Jakarta Timur","Stasiun Manggarai, Jakarta Selatan",Busway,Rp. 5.000
+U-0112,35,Perempuan,"Halte Dukuh Atas, Jakarta Pusat","Jl. M.H. Thamrin, Jakarta Pusat",Transjakarta,Rp. 4.000
+U-0113,43,Laki-laki,"Jl. Gatot Subroto, Jakarta Selatan","Jl. Sisingamangaraja, Jakarta Selatan",Angkot,Rp. 5.000
+U-0114,26,Perempuan,"Stasiun Pasar Senen, Jakarta Pusat","Stasiun Jatinegara, Jakarta Timur",KRL,Rp. 4.000
+U-0115,37,Laki-laki,"Stasiun Tanah Abang, Jakarta Pusat","Stasiun Bekasi, Jawa Barat",KRL,Rp. 9.000
+U-0116,44,Perempuan,"Halte Semanggi, Jakarta Pusat","Taman Anggrek Mall, Jakarta Barat",Transjakarta,Rp. 5.000
+U-0117,32,Laki-laki,"Terminal Grogol, Jakarta Barat","Plaza Senayan, Jakarta Selatan",Busway,Rp. 3.500
+U-0118,38,Perempuan,"Halte Kuningan, Jakarta Selatan","Stasiun Sudirman, Jakarta Pusat",Transjakarta,Rp. 4.000
+U-0119,34,Laki-laki,"Jl. Thamrin, Jakarta Pusat","Jl. Sudirman, Jakarta Pusat",Angkot,Rp. 5.000
+U-0120,42,Perempuan,"Stasiun Kota, Jakarta Barat","Stasiun Tanah Abang, Jakarta Pusat",KRL,Rp. 8.000
+U-0121,29,Laki-laki,"Halte Harmoni, Jakarta Pusat","Pasar Baru, Jakarta Pusat",Transjakarta,Rp. 3.500
+U-0122,31,Perempuan,"Terminal Blok M, Jakarta Selatan","Stasiun Pasar Minggu, Jakarta Selatan",Bus,Rp. 5.000
+U-0123,40,Laki-laki,"Jl. Cikini Raya, Jakarta Pusat","Jl. Diponegoro, Jakarta Pusat",Angkot,Rp. 4.000
+U-0124,36,Perempuan,"Terminal Pulo Gadung, Jakarta Timur","Taman Mini Indonesia Indah, Jakarta Timur",Bus,Rp. 6.000
+U-0125,45,Laki-laki,"Stasiun Gambir, Jakarta Pusat","Stasiun Depok, Jawa Barat",KRL,Rp. 12.000
+U-0126,27,Perempuan,"Halte Sudirman, Jakarta Pusat","Plaza Indonesia, Jakarta Pusat",Transjakarta,Rp. 4.000
+U-0127,39,Laki-laki,"Stasiun Tanah Abang, Jakarta Pusat","Stasiun Manggarai, Jakarta Selatan",KRL,Rp. 10.000
+U-0128,33,Perempuan,"Terminal Kalideres, Jakarta Barat","Mall Taman Anggrek, Jakarta Barat",Busway,Rp. 5.000
+U-0129,28,Laki-laki,"Jl. Sudirman, Jakarta Pusat","Jl. MH Thamrin, Jakarta Pusat",MRT,Rp. 6.000
+U-0130,41,Perempuan,"Halte Senayan, Jakarta Pusat","Halte Harmoni, Jakarta Pusat",Transjakarta,Rp. 3.000
+U-0131,30,Laki-laki,"Terminal Kampung Melayu, Jakarta Timur","Stasiun Manggarai, Jakarta Selatan",Busway,Rp. 5.000
+U-0132,35,Perempuan,"Halte Dukuh Atas, Jakarta Pusat","Jl. M.H. Thamrin, Jakarta Pusat",Transjakarta,Rp. 4.000
+U-0133,43,Laki-laki,"Jl. Gatot Subroto, Jakarta Selatan","Jl. Sisingamangaraja, Jakarta Selatan",Angkot,Rp. 5.000
+U-0134,26,Perempuan,"Stasiun Pasar Senen, Jakarta Pusat","Stasiun Jatinegara, Jakarta Timur",KRL,Rp. 4.000
+U-0135,37,Laki-laki,"Stasiun Tanah Abang, Jakarta Pusat","Stasiun Bekasi, Jawa Barat",KRL,Rp. 9.000
+U-0136,44,Perempuan,"Halte Semanggi, Jakarta Pusat","Taman Anggrek Mall, Jakarta Barat",Transjakarta,Rp. 5.000
+U-0137,32,Laki-laki,"Terminal Grogol, Jakarta Barat","Plaza Senayan, Jakarta Selatan",Busway,Rp. 3.500
+U-0138,38,Perempuan,"Halte Kuningan, Jakarta Selatan","Stasiun Sudirman, Jakarta Pusat",Transjakarta,Rp. 4.000
+U-0139,34,Laki-laki,"Jl. Thamrin, Jakarta Pusat","Jl. Sudirman, Jakarta Pusat",Angkot,Rp. 5.000
+U-0140,42,Perempuan,"Stasiun Kota, Jakarta Barat","Stasiun Tanah Abang, Jakarta Pusat",KRL,Rp. 8.000
+U-0141,29,Laki-laki,"Halte Harmoni, Jakarta Pusat","Pasar Baru, Jakarta Pusat",Transjakarta,Rp. 3.500
+U-0142,31,Perempuan,"Terminal Blok M, Jakarta Selatan","Stasiun Pasar Minggu, Jakarta Selatan",Bus,Rp. 5.000
+U-0143,40,Laki-laki,"Jl. Cikini Raya, Jakarta Pusat","Jl. Diponegoro, Jakarta Pusat",Angkot,Rp. 4.000
+U-0144,36,Perempuan,"Terminal Pulo Gadung, Jakarta Timur","Taman Mini Indonesia Indah, Jakarta Timur",Bus,Rp. 6.000
+U-0145,45,Laki-laki,"Stasiun Gambir, Jakarta Pusat","Stasiun Depok, Jawa Barat",KRL,Rp. 12.000
+U-0146,27,Perempuan,"Halte Sudirman, Jakarta Pusat","Plaza Indonesia, Jakarta Pusat",Transjakarta,Rp. 4.000
+U-0147,39,Laki-laki,"Stasiun Tanah Abang, Jakarta Pusat","Stasiun Manggarai, Jakarta Selatan",KRL,Rp. 10.000
+U-0148,33,Perempuan,"Terminal Kalideres, Jakarta Barat","Mall Taman Anggrek, Jakarta Barat",Busway,Rp. 5.000
+U-0149,28,Laki-laki,"Jl. Sudirman, Jakarta Pusat","Jl. MH Thamrin, Jakarta Pusat",MRT,Rp. 6.000
+U-0150,41,Perempuan,"Halte Senayan, Jakarta Pusat","Halte Harmoni, Jakarta Pusat",Transjakarta,Rp. 3.000
+U-0151,30,Laki-laki,"Terminal Kampung Melayu, Jakarta Timur","Stasiun Manggarai, Jakarta Selatan",Busway,Rp. 5.000
+U-0152,35,Perempuan,"Halte Dukuh Atas, Jakarta Pusat","Jl. M.H. Thamrin, Jakarta Pusat",Transjakarta,Rp. 4.000
+U-0153,43,Laki-laki,"Jl. Gatot Subroto, Jakarta Selatan","Jl. Sisingamangaraja, Jakarta Selatan",Angkot,Rp. 5.000
+U-0154,26,Perempuan,"Stasiun Pasar Senen, Jakarta Pusat","Stasiun Jatinegara, Jakarta Timur",KRL,Rp. 4.000
+U-0155,37,Laki-laki,"Stasiun Tanah Abang, Jakarta Pusat","Stasiun Bekasi, Jawa Barat",KRL,Rp. 9.000
+U-0156,44,Perempuan,"Halte Semanggi, Jakarta Pusat","Taman Anggrek Mall, Jakarta Barat",Transjakarta,Rp. 5.000
+U-0157,32,Laki-laki,"Terminal Grogol, Jakarta Barat","Plaza Senayan, Jakarta Selatan",Busway,Rp. 3.500
+U-0158,38,Perempuan,"Halte Kuningan, Jakarta Selatan","Stasiun Sudirman, Jakarta Pusat",Transjakarta,Rp. 4.000
+U-0159,34,Laki-laki,"Jl. Thamrin, Jakarta Pusat","Jl. Sudirman, Jakarta Pusat",Angkot,Rp. 5.000
+U-0160,42,Perempuan,"Stasiun Kota, Jakarta Barat","Stasiun Tanah Abang, Jakarta Pusat",KRL,Rp. 8.000
+U-0161,29,Laki-laki,"Halte Harmoni, Jakarta Pusat","Pasar Baru, Jakarta Pusat",Transjakarta,Rp. 3.500
+U-0162,31,Perempuan,"Terminal Blok M, Jakarta Selatan","Stasiun Pasar Minggu, Jakarta Selatan",Bus,Rp. 5.000
+U-0163,40,Laki-laki,"Jl. Cikini Raya, Jakarta Pusat","Jl. Diponegoro, Jakarta Pusat",Angkot,Rp. 4.000
+U-0164,36,Perempuan,"Terminal Pulo Gadung, Jakarta Timur","Taman Mini Indonesia Indah, Jakarta Timur",Bus,Rp. 6.000
+U-0165,45,Laki-laki,"Stasiun Gambir, Jakarta Pusat","Stasiun Depok, Jawa Barat",KRL,Rp. 12.000
+U-0166,27,Perempuan,"Halte Sudirman, Jakarta Pusat","Plaza Indonesia, Jakarta Pusat",Transjakarta,Rp. 4.000
+U-0167,39,Laki-laki,"Stasiun Tanah Abang, Jakarta Pusat","Stasiun Manggarai, Jakarta Selatan",KRL,Rp. 10.000
+U-0168,33,Perempuan,"Terminal Kalideres, Jakarta Barat","Mall Taman Anggrek, Jakarta Barat",Busway,Rp. 5.000
+U-0169,28,Laki-laki,"Jl. Sudirman, Jakarta Pusat","Jl. MH Thamrin, Jakarta Pusat",MRT,Rp. 6.000
+U-0170,41,Perempuan,"Halte Senayan, Jakarta Pusat","Halte Harmoni, Jakarta Pusat",Transjakarta,Rp. 3.000
+U-0171,30,Laki-laki,"Terminal Kampung Melayu, Jakarta Timur","Stasiun Manggarai, Jakarta Selatan",Busway,Rp. 5.000
+U-0172,35,Perempuan,"Halte Dukuh Atas, Jakarta Pusat","Jl. M.H. Thamrin, Jakarta Pusat",Transjakarta,Rp. 4.000
+U-0173,43,Laki-laki,"Jl. Gatot Subroto, Jakarta Selatan","Jl. Sisingamangaraja, Jakarta Selatan",Angkot,Rp. 5.000
+U-0174,26,Perempuan,"Stasiun Pasar Senen, Jakarta Pusat","Stasiun Jatinegara, Jakarta Timur",KRL,Rp. 4.000
+U-0175,37,Laki-laki,"Stasiun Tanah Abang, Jakarta Pusat","Stasiun Bekasi, Jawa Barat",KRL,Rp. 9.000
+U-0176,44,Perempuan,"Halte Semanggi, Jakarta Pusat","Taman Anggrek Mall, Jakarta Barat",Transjakarta,Rp. 5.000
+U-0177,32,Laki-laki,"Terminal Grogol, Jakarta Barat","Plaza Senayan, Jakarta Selatan",Busway,Rp. 3.500
+U-0178,38,Perempuan,"Halte Kuningan, Jakarta Selatan","Stasiun Sudirman, Jakarta Pusat",Transjakarta,Rp. 4.000
+U-0179,34,Laki-laki,"Jl. Thamrin, Jakarta Pusat","Jl. Sudirman, Jakarta Pusat",Angkot,Rp. 5.000
+U-0180,42,Perempuan,"Stasiun Kota, Jakarta Barat","Stasiun Tanah Abang, Jakarta Pusat",KRL,Rp. 8.000
+U-0181,29,Laki-laki,"Halte Harmoni, Jakarta Pusat","Pasar Baru, Jakarta Pusat",Transjakarta,Rp. 3.500
+U-0182,31,Perempuan,"Terminal Blok M, Jakarta Selatan","Stasiun Pasar Minggu, Jakarta Selatan",Bus,Rp. 5.000
+U-0183,40,Laki-laki,"Jl. Cikini Raya, Jakarta Pusat","Jl. Diponegoro, Jakarta Pusat",Angkot,Rp. 4.000
+U-0184,36,Perempuan,"Terminal Pulo Gadung, Jakarta Timur","Taman Mini Indonesia Indah, Jakarta Timur",Bus,Rp. 6.000
+U-0185,45,Laki-laki,"Stasiun Gambir, Jakarta Pusat","Stasiun Depok, Jawa Barat",KRL,Rp. 12.000
+U-0186,27,Perempuan,"Halte Sudirman, Jakarta Pusat","Plaza Indonesia, Jakarta Pusat",Transjakarta,Rp. 4.000
+U-0187,39,Laki-laki,"Stasiun Tanah Abang, Jakarta Pusat","Stasiun Manggarai, Jakarta Selatan",KRL,Rp. 10.000
